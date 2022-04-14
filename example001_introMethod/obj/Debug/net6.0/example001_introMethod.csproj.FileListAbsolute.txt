@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\bin\Debug\net6.0\example001_introMethod.exe
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\bin\Debug\net6.0\example001_introMethod.deps.json
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\bin\Debug\net6.0\example001_introMethod.runtimeconfig.json
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\bin\Debug\net6.0\example001_introMethod.dll
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\bin\Debug\net6.0\example001_introMethod.pdb
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.dll
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\refint\example001_introMethod.dll
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.pdb
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\example001_introMethod.genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение\C#\L-2\example001_introMethod\obj\Debug\net6.0\ref\example001_introMethod.dll
