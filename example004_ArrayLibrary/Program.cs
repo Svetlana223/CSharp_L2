@@ -25,7 +25,7 @@ int IndexOf(int[] collection, int find)
 {
     int count = collection.Length;
     int index = 0;
-    int position = 0;
+    int position = -1;
     while(index < count)
     {
         if(collection[index] == find)
@@ -42,10 +42,9 @@ int[] array = new int[10];
 
 FillArray(array);
 array[1] = 4;
-array[6] = 4;
 
 PrintArray(array);
 Console.WriteLine();
 
-int pos = IndexOf(array, 3);
+int pos = IndexOf(array, 1);
 Console.WriteLine(pos);
